@@ -6,7 +6,7 @@ public class MainClass
 {
 	public static void main(String args[])
 	{
-		String str = findReverse("Hithere");
+		String str = findReverse("Hithere123");
 		System.out.println("Answer : " + str);
 	}
 
